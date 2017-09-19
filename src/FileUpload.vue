@@ -1,5 +1,5 @@
 <template>
-  <input type="file" name="fileUpload" @change="onFileChange">
+  <input class="upload-input" type="file" name="fileUpload" @change="onFileChange">
 </template>
 
 <script type="text/babel">
